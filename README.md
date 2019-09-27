@@ -6,8 +6,8 @@
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
-- [C#](#c#)
-- [C++](#c++)
+- [C#](#c-1)
+- [C++](#c-2)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -132,6 +132,7 @@
 - [xorns](https://github.com/merchise/xorns) - Extensions for Emacs.  
 
 ## Go
+- [hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.  
 - [gitstrap](https://github.com/g4s8/gitstrap) - Command line tool to bootstrap Github repository  
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software  
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.  
@@ -184,6 +185,7 @@
 - [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) - GWT wrapper for the Bootstrap front-end framework  
 
 ## JavaScript
+- [node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app) -   
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!  
 - [react-graceful-image](https://github.com/linasmnew/react-graceful-image) - An image component for gracefully dealing with image errors by providing optional lazy loading, optional placeholder and configurable retries on failure  
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed  
@@ -469,12 +471,13 @@
 - [al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) - :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/  
 
 ## Kotlin
-- [fenix](https://github.com/mozilla-mobile/fenix) -   
+- [fenix](https://github.com/mozilla-mobile/fenix) - Firefox Preview  
 
 ## Makefile
 - [Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.  
 
 ## Others
+- [realworld-starter-kit](https://github.com/gothinkster/realworld-starter-kit) - Starter kit for new RealWorld framework implementations  
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!  
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.  
 - [i-am-chinese-the-dragonfly-must-go-on](https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on) - A response to “We are Google employees, Google must drop DragonFly”  
