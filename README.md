@@ -51,6 +51,7 @@
 - [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.  
 
 ## C
+- [evdi](https://github.com/DisplayLink/evdi) - Extensible Virtual Display Interface  
 - [axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator  
 - [BSDGames](https://github.com/vattam/BSDGames) - Text based games from Debian - bsdgames package.  
 - [zathura](https://github.com/pwmt/zathura) - a document viewer  
@@ -58,7 +59,6 @@
 - [raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial) - Bare metal Raspberry Pi 3 tutorials  
 - [rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement  
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)  
-- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator  
 - [ls-icons](https://github.com/sebastiencs/ls-icons) - ls command with files icons  
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/  
 - [radare2](https://github.com/radareorg/radare2) - unix-like reverse engineering framework and commandline tools  
@@ -185,6 +185,8 @@
 - [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) - GWT wrapper for the Bootstrap front-end framework  
 
 ## JavaScript
+- [error-overlay-webpack-plugin](https://github.com/smooth-code/error-overlay-webpack-plugin) - Catch errors with style 💥✨  
+- [hooks](https://github.com/joshbuchea/hooks) - React Hooks  
 - [node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app) -   
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!  
 - [react-graceful-image](https://github.com/linasmnew/react-graceful-image) - An image component for gracefully dealing with image errors by providing optional lazy loading, optional placeholder and configurable retries on failure  
@@ -494,7 +496,7 @@
 - [cuban-opensource](https://github.com/cuban-opensourcers/cuban-opensource) - Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba...  
 - [typescript-vs-flowtype](https://github.com/niieani/typescript-vs-flowtype) - Differences between Flowtype and TypeScript -- syntax and usability  
 - [react-state-management](https://github.com/FrontendMasters/react-state-management) -   
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:  Updated weekly!  
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:  
 - [awesome-tools-for-junior-developers](https://github.com/stephhappens/awesome-tools-for-junior-developers) - A curated list of popular tools, tips and tricks for aspiring developers.  
 - [design-for-developers](https://github.com/sdras/design-for-developers) - Design for Developers Workshop  
 - [FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript) - Mashup Font of FiraCode and Script12  
@@ -618,6 +620,7 @@
 - [ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...  
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel  
 - [learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.  
+- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator  
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites  
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line  
 - [sublime-autoprefixer](https://github.com/sindresorhus/sublime-autoprefixer) - Sublime plugin to prefix your CSS  
@@ -699,6 +702,8 @@
 - [Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application  
 
 ## TypeScript
+- [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module  
+- [reworm](https://github.com/pedronauck/reworm) - 🍫 the simplest way to manage state  
 - [apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Tooling for development and production Apollo workflows  
 - [tabliss](https://github.com/joelshepherd/tabliss) - An extensible New Tab web extension written in TypeScript, React and Redux.  
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server  
