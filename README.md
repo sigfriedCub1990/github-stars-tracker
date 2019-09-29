@@ -479,6 +479,7 @@
 - [Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.  
 
 ## Others
+- [real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps) - Real world React apps and their open source codebases for developers to learn from  
 - [realworld-starter-kit](https://github.com/gothinkster/realworld-starter-kit) - Starter kit for new RealWorld framework implementations  
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!  
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.  
@@ -702,6 +703,7 @@
 - [Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application  
 
 ## TypeScript
+- [webpack-hook-plugin](https://github.com/tienne/webpack-hook-plugin) - run any shell commands before or after webpack builds (with type definition)  
 - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module  
 - [reworm](https://github.com/pedronauck/reworm) - 🍫 the simplest way to manage state  
 - [apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Tooling for development and production Apollo workflows  
