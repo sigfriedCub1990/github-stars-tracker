@@ -185,6 +185,7 @@
 - [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) - GWT wrapper for the Bootstrap front-end framework  
 
 ## JavaScript
+- [dev-arcade](https://github.com/joshbuchea/dev-arcade) - 🕹 Play Games, Level Up  
 - [error-overlay-webpack-plugin](https://github.com/smooth-code/error-overlay-webpack-plugin) - Catch errors with style 💥✨  
 - [hooks](https://github.com/joshbuchea/hooks) - React Hooks  
 - [node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app) -   
@@ -479,6 +480,8 @@
 - [Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.  
 
 ## Others
+- [state-machines](https://github.com/achou11/state-machines) - A humble repo to collect knowledge on state machines.  
+- [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document  
 - [real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps) - Real world React apps and their open source codebases for developers to learn from  
 - [realworld-starter-kit](https://github.com/gothinkster/realworld-starter-kit) - Starter kit for new RealWorld framework implementations  
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!  
